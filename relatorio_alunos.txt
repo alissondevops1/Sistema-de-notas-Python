@@ -1,0 +1,37 @@
+📊 RELATÓRIO DE ALUNOS
+
+Nome: Alisson
+Matrícula: 0001
+Curso: TI
+Notas: [8.0, 9.0, 9.0, 10.0]
+Média: 9.00
+Situação: Aprovado ✅
+----------------------------------------
+Nome: Adriana
+Matrícula: 0002
+Curso: Inglês
+Notas: [7.0, 8.0, 9.0, 10.0]
+Média: 8.50
+Situação: Aprovado ✅
+----------------------------------------
+Nome: Karen
+Matrícula: 0003
+Curso: direito
+Notas: [8.0, 9.0, 8.0, 8.0]
+Média: 8.25
+Situação: Aprovado ✅
+----------------------------------------
+Nome: Junior 
+Matrícula: 0004
+Curso: Pedagogia 
+Notas: []
+Média: 0.00
+Situação: Sem notas
+----------------------------------------
+Nome: Gaby
+Matrícula: 0005
+Curso: Odontologia
+Notas: [10.0, 8.0, 9.0, 5.0]
+Média: 8.00
+Situação: Aprovado ✅
+----------------------------------------

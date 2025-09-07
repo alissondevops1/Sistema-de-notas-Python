@@ -1,0 +1,52 @@
+[
+    {
+        "nome": "Alisson",
+        "matricula": "0001",
+        "curso": "TI",
+        "notas": [
+            8.0,
+            9.0,
+            9.0,
+            10.0
+        ]
+    },
+    {
+        "nome": "Adriana",
+        "matricula": "0002",
+        "curso": "Inglês",
+        "notas": [
+            7.0,
+            8.0,
+            9.0,
+            10.0
+        ]
+    },
+    {
+        "nome": "Karen",
+        "matricula": "0003",
+        "curso": "direito",
+        "notas": [
+            8.0,
+            9.0,
+            8.0,
+            8.0
+        ]
+    },
+    {
+        "nome": "Junior ",
+        "matricula": "0004",
+        "curso": "Pedagogia ",
+        "notas": []
+    },
+    {
+        "nome": "Gaby",
+        "matricula": "0005",
+        "curso": "Odontologia",
+        "notas": [
+            10.0,
+            8.0,
+            9.0,
+            5.0
+        ]
+    }
+]
