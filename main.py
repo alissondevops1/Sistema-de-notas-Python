@@ -150,7 +150,7 @@ def gerar_relatorio():
 
 def menu():
     while True:
-        print("Bem-vindo ao Sistema de Notas!")
+        print("=== Sistema de Notas - Versão 2 ===")
         print("Bem-vindo ao Sistema de Notas dos Alunos! 🚀")
         print(Fore.BLUE + Style.BRIGHT + "\n=== MENU PRINCIPAL ===")
         print(Fore.CYAN + "1. Cadastrar aluno")
