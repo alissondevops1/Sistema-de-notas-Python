@@ -223,6 +223,7 @@ def menu():
 
         elif opcao == "0":
             print(Fore.GREEN + "👋 Saindo do sistema...")
+            print("Obrigado por usar o Sistema de Notas! 😊")
             break
 
         else:
